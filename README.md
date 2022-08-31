@@ -8,7 +8,6 @@ This tool helps you to inset a description in you code.
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <!-- PROJE HAKKINDA -->
 ## ABOUT TOOL
